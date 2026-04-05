@@ -62,14 +62,12 @@ Muchas Propiedades incluyen **Mejoras**, que representan inversiones adicionales
 Las Propiedades utilizan principalmente cinco tipos de reglas:
 
 ### 1. Bonificador a Fortuna de la Casa
-Aporta un bonus directo a las tiradas de Fortuna.
+Se trata de una bonificación fija para las tiradas de Fortuna de la Casa. Estas bonificaciones no se acumulan directamente, pero están sujetas a la regla de Acumulación de Bonificaciones (véase más abajo).
 
 ---
 
 ### 2. Bonificador de Ganancia de Recursos
-Aumenta los recursos obtenidos al tener éxito en una tirada de Fortuna.
-
-⚠️ Solo se aplica si el recurso se obtiene mediante tirada.
+Esto supone un aumento en un Recurso de Casa específico. Siempre que dicho Recurso aumente debido a los efectos de una tirada de Fortuna de Casa, aumenta esa ganancia con la bonificación otorgada por esta mecánica. Solo los Recursos que aumenten mediante una tirada real de Fortuna de Casa se benefician de esta bonificación; el +1 de Recurso que se obtiene al evitar una tirada real de Fortuna de Casa no se beneficia. Estas bonificaciones no se acumulan directamente, pero están sujetas a la regla de Acumulación de Bonificaciones (véase más abajo).
 
 ---
 
