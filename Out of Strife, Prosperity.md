@@ -72,16 +72,20 @@ Esto supone un aumento en un Recurso de Casa específico. Siempre que dicho Recu
 ---
 
 ### 3. Reducción de Pérdida de Recursos
-Reduce las pérdidas cuando una tirada de Fortuna tiene resultado negativo.
+Esto reduce la pérdida de un Recurso de Casa específico. Siempre que dicho Recurso disminuya debido a los efectos de una tirada de Fortuna de Casa, reduce esa pérdida con la bonificación otorgada por esta mecánica; esto puede reducir las pérdidas a cero. Estas bonificaciones no se acumulan directamente, pero están sujetas a la regla de Acumulación de Bonificaciones (ver más abajo).
 
 ---
 
 ### 4. Conversión de Recursos
-Permite convertir ganancias de un recurso en otro (1:1).
+Con esta mecánica, cualquier ganancia (no solo las de una tirada de Fortuna de la Casa) en un Recurso con nombre determinado se puede convertir automáticamente en ganancias equivalentes en otro Recurso con nombre diferente. Esta conversión es unidireccional. Además, la conversión de dichos Recursos mediante la Acción de la Casa «Gestionar Recursos» siempre se realiza a una tasa de 1:1, incluso si se realiza con prisa.
 
 ---
 
 ### 5. Descuentos y Beneficios
+Algunas Propiedades modifican el coste de compra de otras Propiedades Fortuna, otorgando un descuento a todas esas inversiones de Fortuna.
+
+Algunas propiedades modifican la forma en que se adquieren las unidades militares. Algunas otorgan un descuento a todas las inversiones de Poder, mientras que otras pueden conceder un beneficio específico a cualquier unidad de un tipo determinado adquirida por una Casa con la propiedad descrita.
+
 Algunas Propiedades:
 - Reducen el coste de otras
 - Mejoran unidades militares
@@ -90,8 +94,10 @@ Algunas Propiedades:
 ---
 
 ## ¿Qué recurso aumenta?
+Al realizar una tirada de Vicisitud de la Casa, se sugiere que el Narrador pida a los jugadores que determinen qué Recurso intentan aumentar con dicha tirada. Esta declaración refleja la intención de la Casa de fortalecer su solvencia financiera, la fuerza de sus ejércitos o su posición en la sociedad como parte de sus actividades cotidianas. Con un resultado positivo, ese Recurso aumenta; con un resultado negativo, disminuye.
+También se recomienda que el Narrador se reserve el derecho de elegir Recursos secundarios, indicados tanto por resultados positivos como negativos de la Visicitud de la Casa. Estos reflejan ganancias inesperadas o eventos trágicos que la Casa no pudo prever.
 
-Cuando se realiza una tirada de Fortuna:
+Cuando se realiza una tirada de Vicisitud (Fortune):
 
 - Los jugadores eligen qué recurso intentan mejorar
 - Si el resultado es positivo → ese recurso aumenta
