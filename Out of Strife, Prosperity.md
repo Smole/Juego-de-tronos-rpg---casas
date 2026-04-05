@@ -140,7 +140,7 @@ Esto refleja variabilidad (clima, mercado, etc.).
 
 ---
 
-## Propiedades de Tipo: ESTATE (Dominio)
+# Propiedades de Tipo: ESTATE (Dominio)
 
 Representan explotaciones de recursos naturales a gran escala.
 
