@@ -27,10 +27,7 @@
 El sistema de Propiedades de Riqueza del manual básico de *Canción de Hielo y Fuego: Juego de Rol* (SIFRP), así como las incluidas en este suplemento, representan fuentes de prosperidad dentro de un Dominio.
 
 La presencia de una Propiedad indica que el Dominio produce suficiente de ese recurso como para comerciar con él ampliamente. Una Propiedad implica una operación lo bastante grande como para influir en la Fortuna de la Casa.
-
-### ¿Es obligatorio tener una Propiedad para que exista ese recurso?
-
-No.
+¿Es obligatorio tener una Propiedad para que exista ese recurso? No.
 
 No tener una Propiedad simplemente significa que:
 - La actividad no es lo bastante grande
