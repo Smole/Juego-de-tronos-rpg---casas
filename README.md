@@ -1,4 +1,4 @@
-Extracción y traduccion empleando chatgpt.
+Extracción y traduccion empleando chatgpt. Corregidos los textos con DeepSeek.
 
 Autores del pdf originales:
 
