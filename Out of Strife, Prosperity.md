@@ -171,9 +171,9 @@ Las Posesiones de Riqueza de Estilo de Vida reflejan el tipo de lujos que solo l
 >
 > Las siguientes mejoras están disponibles para Posesiones de Corte.
 >
-> * **Gente Hermosa*:** +5 Riqueza; 1d6 meses. La corte del señor es tanto un adorno como una reunión de cortesanos, y la Casa se adorna solo con los más atractivos de sus acompañantes. Es probable que dicha corte sea conocida como un semillero de romances, citas e intrigas. Aquellos que desean acceso aprenden que la generosidad con el señor de la Casa es lo mejor. **Conversión de Recurso a Recurso:** Puede intercambiar Influencia por Riqueza.
+> * **Gente Hermosa** *: +5 Riqueza; 1d6 meses. La corte del señor es tanto un adorno como una reunión de cortesanos, y la Casa se adorna solo con los más atractivos de sus acompañantes. Es probable que dicha corte sea conocida como un semillero de romances, citas e intrigas. Aquellos que desean acceso aprenden que la generosidad con el señor de la Casa es lo mejor. **Conversión de Recurso a Recurso:** Puede intercambiar Influencia por Riqueza.
 >
-> * **Agitadores y Figuras Influyentes*:** +5 Riqueza; 1d6 meses. La corte del señor es un lugar de política seria y disputas legales. Con tal reunión, el señor se establece como alguien de importancia política, la estrella de su Casa creciendo significativamente. **Bonificación de Ganancia de Recursos: Influencia +1, Ley +1**
+> * **Agitadores y Figuras Influyentes** *: +5 Riqueza; 1d6 meses. La corte del señor es un lugar de política seria y disputas legales. Con tal reunión, el señor se establece como alguien de importancia política, la estrella de su Casa creciendo significativamente. **Bonificación de Ganancia de Recursos: Influencia +1, Ley +1**
 
 > ## ESTILO DE VIDA: CRIPTAS
 > **Tiempo:** 1d6+12 meses
@@ -216,9 +216,9 @@ Las Posesiones de Riqueza de Estilo de Vida reflejan el tipo de lujos que solo l
 >
 > Las siguientes mejoras están disponibles para Posesiones de Jardines.
 >
-> * **Jardines de Flores*:** +2 Riqueza; 1d6 meses. Los jardines son conocidos por sus extravagantes arreglos de flores finas y fragantes, muchas de ellas costosas y raras. **Bonificación de Ganancia de Recursos: Riqueza +1.**
+> * **Jardines de Flores** *: +2 Riqueza; 1d6 meses. Los jardines son conocidos por sus extravagantes arreglos de flores finas y fragantes, muchas de ellas costosas y raras. **Bonificación de Ganancia de Recursos: Riqueza +1.**
 >
-> * **Jardines de Hierbas*:** +2 Riqueza; 1d6 meses. Además de las finas plantas ornamentales, el jardín incluye muchas hierbas beneficiosas y raras. **Tiradas de Vicisitud de la Casa: +1, pero solo en Primavera, Verano y Otoño.**
+> * **Jardines de Hierbas** *: +2 Riqueza; 1d6 meses. Además de las finas plantas ornamentales, el jardín incluye muchas hierbas beneficiosas y raras. **Tiradas de Vicisitud de la Casa: +1, pero solo en Primavera, Verano y Otoño.**
 
 > ## ESTILO DE VIDA: INVERNADERO
 > **Tiempo:** 2d6+6 meses
@@ -239,7 +239,7 @@ Las Posesiones de Riqueza de Estilo de Vida reflejan el tipo de lujos que solo l
 >
 > Las siguientes mejoras están disponibles para Posesiones de Jardines.
 >
-> * **Plantaciones Diversas*:** +1 Defensa, +1 Riqueza; 2d6 meses. El espacio del invernadero se amplía y sus productos se diversifican. Añade otra categoría de cultivo de la lista anterior al rendimiento del invernadero. Esto se puede comprar múltiples veces.
+> * **Plantaciones Diversas** *: +1 Defensa, +1 Riqueza; 2d6 meses. El espacio del invernadero se amplía y sus productos se diversifican. Añade otra categoría de cultivo de la lista anterior al rendimiento del invernadero. Esto se puede comprar múltiples veces.
 
 > ## ESTILO DE VIDA: BIBLIOTECA
 > **Tiempo:** 12 + 2d6 meses
@@ -262,9 +262,9 @@ Las Posesiones de Riqueza de Estilo de Vida reflejan el tipo de lujos que solo l
 >
 > Las siguientes mejoras están disponibles para Posesiones de Biblioteca.
 >
-> * **Scriptorium*:** 5 Riqueza; 1d6 meses; debe ser Biblioteca Grande o mayor. Las instalaciones de la biblioteca incluyen un conjunto dedicado de escribas cuya tarea es copiar los libros de la biblioteca y encuadernar las copias terminadas. La Casa vende o regala estos tesoros de forma rutinaria. **Bonificación de Ganancia de Recursos: Influencia +1, Riqueza +1.**
+> * **Scriptorium** *: 5 Riqueza; 1d6 meses; debe ser Biblioteca Grande o mayor. Las instalaciones de la biblioteca incluyen un conjunto dedicado de escribas cuya tarea es copiar los libros de la biblioteca y encuadernar las copias terminadas. La Casa vende o regala estos tesoros de forma rutinaria. **Bonificación de Ganancia de Recursos: Influencia +1, Riqueza +1.**
 >
-> * **Archiveros Investigadores*:** 5 Riqueza; 1d6 meses. La biblioteca incluye un pequeño personal de sabios e investigadores dedicados que pueden recorrer la biblioteca en busca de respuestas a cualquier pregunta que la Casa pueda tener. El número de estos retenedores se basa en el tamaño de la biblioteca: un solo archivero para una Biblioteca Moderada, un trío para una Biblioteca Grande, un equipo de seis para una Biblioteca Señorial y una docena completa de investigadores ocupados para una Biblioteca Real. **Nueva Regla:** Se considera que los archiveros tienen una clasificación de Conocimiento basada en el tamaño de la biblioteca a efectos de realizar investigaciones. Las Bibliotecas Moderadas y Grandes otorgan un Conocimiento 4, la Señorial otorga un 5 y la Real otorga un 6. También utilizan los dados de bonificación de Investigación otorgados por la biblioteca para cualquier respuesta. Recorrer los libros puede llevar tiempo, sin embargo: 1d6 días para Bibliotecas Moderadas y Grandes, 2d6 días para la Señorial y 3d6 para la Real.
+> * **Archiveros Investigadores** *: 5 Riqueza; 1d6 meses. La biblioteca incluye un pequeño personal de sabios e investigadores dedicados que pueden recorrer la biblioteca en busca de respuestas a cualquier pregunta que la Casa pueda tener. El número de estos retenedores se basa en el tamaño de la biblioteca: un solo archivero para una Biblioteca Moderada, un trío para una Biblioteca Grande, un equipo de seis para una Biblioteca Señorial y una docena completa de investigadores ocupados para una Biblioteca Real. **Nueva Regla:** Se considera que los archiveros tienen una clasificación de Conocimiento basada en el tamaño de la biblioteca a efectos de realizar investigaciones. Las Bibliotecas Moderadas y Grandes otorgan un Conocimiento 4, la Señorial otorga un 5 y la Real otorga un 6. También utilizan los dados de bonificación de Investigación otorgados por la biblioteca para cualquier respuesta. Recorrer los libros puede llevar tiempo, sin embargo: 1d6 días para Bibliotecas Moderadas y Grandes, 2d6 días para la Señorial y 3d6 para la Real.
 
 > ## ESTILO DE VIDA: OBSERVATORIO
 > **Tiempo:** 1d6+3 meses
@@ -337,9 +337,9 @@ Las Posesiones de Riqueza de Estilo de Vida reflejan el tipo de lujos que solo l
 >
 > Las siguientes mejoras están disponibles para Posesiones de Sala de Trofeos.
 >
-> * **Curador*:** +5 Riqueza, 1d6+12 meses. Se recluta un Erudito para gestionar y curar la colección de la Sala de Trofeos. Sirve como Posesión de Erudito.
+> * **Curador** *: +5 Riqueza, 1d6+12 meses. Se recluta un Erudito para gestionar y curar la colección de la Sala de Trofeos. Sirve como Posesión de Erudito.
 >
-> * **Gran Sala*:** +5 Riqueza, 2d6+12 meses. Una colección y exhibición aún más grande y elaborada. **Bonificación de Ganancia de Recursos: +1** (para un total de +2).
+> * **Gran Sala** *: +5 Riqueza, 2d6+12 meses. Una colección y exhibición aún más grande y elaborada. **Bonificación de Ganancia de Recursos: +1** (para un total de +2).
 
 
 # Posesiones de Riqueza de la Finca
@@ -425,13 +425,13 @@ En cualquier caso, cualquier dominio dado solo puede tener una posesión de finc
 >
 > Las siguientes mejoras están disponibles para Posesiones de Perreras.
 >
-> * **Sabuesos de Exploración*:** +5 Riqueza; 2d6 meses. Las perreras producen no solo sabuesos de caza sino también aquellos entrenados para rastreo y defensa. **Bonificaciones de Unidades:** Las unidades de Exploración controladas por la Casa ganan una bonificación de +2B a los usos de Supervivencia (Rastreo). El daño cuerpo a cuerpo de esa unidad también aumenta en +1. Esta bonificación de daño no está limitada por los máximos normales para el daño de una unidad.
+> * **Sabuesos de Exploración** *: +5 Riqueza; 2d6 meses. Las perreras producen no solo sabuesos de caza sino también aquellos entrenados para rastreo y defensa. **Bonificaciones de Unidades:** Las unidades de Exploración controladas por la Casa ganan una bonificación de +2B a los usos de Supervivencia (Rastreo). El daño cuerpo a cuerpo de esa unidad también aumenta en +1. Esta bonificación de daño no está limitada por los máximos normales para el daño de una unidad.
 >
-> * **Sabuesos de Guerra*:** +5 Riqueza; 2d6 meses. Las perreras producen no solo sabuesos de caza sino también aquellos entrenados para combate y uso militar. **Bonificaciones de Unidades:** Cualquier unidad no montada y no naval puede equiparse con sabuesos de guerra por un coste de 2 Riqueza, otorgando un +1B a las tiradas de ataque cuerpo a cuerpo y aumentando el daño cuerpo a cuerpo de esa unidad en +2. Esta bonificación de daño no está limitada por los máximos normales para el daño de una unidad.
+> * **Sabuesos de Guerra** *: +5 Riqueza; 2d6 meses. Las perreras producen no solo sabuesos de caza sino también aquellos entrenados para combate y uso militar. **Bonificaciones de Unidades:** Cualquier unidad no montada y no naval puede equiparse con sabuesos de guerra por un coste de 2 Riqueza, otorgando un +1B a las tiradas de ataque cuerpo a cuerpo y aumentando el daño cuerpo a cuerpo de esa unidad en +2. Esta bonificación de daño no está limitada por los máximos normales para el daño de una unidad.
 >
-> * **Perros Guardianes*:** +5 Riqueza; 1d6 meses. Las personas de los dominios de la Casa han adoptado perros en su vida cotidiana. Se encuentran perros guardianes en casi todas las casas y negocios. **Nueva Regla:** Los intentos de Saboteadores, Espías u otros agentes de Casas enemigas ven aumentada la dificultad de sus tiradas de Astucia en +3.
+> * **Perros Guardianes** *: +5 Riqueza; 1d6 meses. Las personas de los dominios de la Casa han adoptado perros en su vida cotidiana. Se encuentran perros guardianes en casi todas las casas y negocios. **Nueva Regla:** Los intentos de Saboteadores, Espías u otros agentes de Casas enemigas ven aumentada la dificultad de sus tiradas de Astucia en +3.
 >
-> * **Linaje Raro*:** +5 Riqueza; 2d6+12 meses. Los perros de las perreras de la Casa no están destinados a ser animales de trabajo: son lujos hermosos y caros disponibles solo para los muy ricos. Proporcionar tales animales a los propios pares es un camino hacia la distinción y la prosperidad. **Bonificación de Ganancia de Recursos: Riqueza +1. Mitigación de Pérdida de Recursos: Influencia +1.**
+> * **Linaje Raro** *: +5 Riqueza; 2d6+12 meses. Los perros de las perreras de la Casa no están destinados a ser animales de trabajo: son lujos hermosos y caros disponibles solo para los muy ricos. Proporcionar tales animales a los propios pares es un camino hacia la distinción y la prosperidad. **Bonificación de Ganancia de Recursos: Riqueza +1. Mitigación de Pérdida de Recursos: Influencia +1.**
 
 > ## FINCA DE PESQUERÍA
 > **Tiempo:** 2d6 meses
@@ -446,7 +446,7 @@ En cualquier caso, cualquier dominio dado solo puede tener una posesión de finc
 >
 > Las siguientes mejoras están disponibles para Posesiones de Pesquería.
 >
-> * **Procesamiento*:** +5 Riqueza; 1d6 meses. La posesión incluye una instalación para salar, ahumar, escabechar o conservar de otro modo el pescado para que pueda ser almacenado, transportado y vendido. **Bonificación de Ganancia de Recursos: Población +1, Riqueza +1.**
+> * **Procesamiento** *: +5 Riqueza; 1d6 meses. La posesión incluye una instalación para salar, ahumar, escabechar o conservar de otro modo el pescado para que pueda ser almacenado, transportado y vendido. **Bonificación de Ganancia de Recursos: Población +1, Riqueza +1.**
 >
 > * **Caza de Ballenas:** +5 Riqueza; solo Costa o Isla; 2d6 meses. Los pescadores de la posesión han aprendido a cazar y procesar ballenas, dándoles acceso a un suministro constante no solo de alimento, sino también de aquellos bienes de lujo derivados de las ballenas. **Bonificación de Ganancia de Recursos: Influencia +1, Riqueza +1.**
 >
@@ -469,7 +469,7 @@ En cualquier caso, cualquier dominio dado solo puede tener una posesión de finc
 >
 > Las siguientes mejoras están disponibles para Posesiones de Agricultura Alimenticia.
 >
-> * **Molino*:** +5 Riqueza; 1d6 meses. La posesión incluye un molino para el procesamiento de alimentos, generalmente utilizado para producir harinas. Un dominio con un río o arroyo probablemente utiliza un molino de agua, mientras que aquellos en colinas pueden usar molinos de viento. De lo contrario, la mayoría de los molinos probablemente son impulsados por trabajo humano o de caballos. **Bonificación de Ganancia de Recursos: Riqueza +1.**
+> * **Molino** *: +5 Riqueza; 1d6 meses. La posesión incluye un molino para el procesamiento de alimentos, generalmente utilizado para producir harinas. Un dominio con un río o arroyo probablemente utiliza un molino de agua, mientras que aquellos en colinas pueden usar molinos de viento. De lo contrario, la mayoría de los molinos probablemente son impulsados por trabajo humano o de caballos. **Bonificación de Ganancia de Recursos: Riqueza +1.**
 >
 > * **Graneros:** +5 Riqueza; 1d6 meses. La posesión incluye una selección de silos, graneros o medios de almacenamiento de alimentos similares que permiten almacenar el exceso de alimentos para tiempos de escasez. **Mitigación de Pérdida de Recursos: Población +1.**
 >
@@ -526,11 +526,11 @@ En cualquier caso, cualquier dominio dado solo puede tener una posesión de finc
 >
 > Las siguientes mejoras están disponibles para Posesiones de Ganadería de Caballos.
 >
-> * **Rebaños de Caballos Deportivos*:** +5 Riqueza; 2d6 meses. Los caballos de este dominio son criados específicamente para su uso en eventos como carreras, caza y torneos. **Descuento en Otra Posesión:** Reduce el coste de la Posesión de Personaje de Maestro de Torneos en 5.
+> * **Rebaños de Caballos Deportivos** *: +5 Riqueza; 2d6 meses. Los caballos de este dominio son criados específicamente para su uso en eventos como carreras, caza y torneos. **Descuento en Otra Posesión:** Reduce el coste de la Posesión de Personaje de Maestro de Torneos en 5.
 >
-> * **Rebaños de Caballos de Guerra*:** +5 Riqueza; 2d6 meses. Los caballos de este dominio son criados específicamente para su uso como corceles de guerra. **Bonificación de Unidades:** Reduce el coste de las unidades de Caballería en 2.
+> * **Rebaños de Caballos de Guerra** *: +5 Riqueza; 2d6 meses. Los caballos de este dominio son criados específicamente para su uso como corceles de guerra. **Bonificación de Unidades:** Reduce el coste de las unidades de Caballería en 2.
 >
-> * **Linaje Raro*:** +5 Riqueza; 2d6+12 meses. Mediante una cría muy selectiva, los caballos de la finca son de muy alta calidad y se venden por cantidades impresionantes de dinero. Proporcionar tales animales a los propios pares es un camino hacia la distinción y la prosperidad. **Bonificación de Ganancia de Recursos: Influencia +1. Mitigación de Pérdida de Recursos: Riqueza +1.**
+> * **Linaje Raro** *: +5 Riqueza; 2d6+12 meses. Mediante una cría muy selectiva, los caballos de la finca son de muy alta calidad y se venden por cantidades impresionantes de dinero. Proporcionar tales animales a los propios pares es un camino hacia la distinción y la prosperidad. **Bonificación de Ganancia de Recursos: Influencia +1. Mitigación de Pérdida de Recursos: Riqueza +1.**
 
 > ## FINCA DE MINA
 > **Tiempo:** 2d6+24 meses
@@ -712,7 +712,7 @@ Los Asesinos se construyen como Personajes Secundarios si fuera necesario, con H
 >
 > Las siguientes mejoras están disponibles para Posesiones de Alguaciles.
 >
-> * **Comunidades Adicionales*:** +3 Riqueza, +1 Poder, 1 mes. Esta inversión puede comprarse múltiples veces. Los alguaciles son parte de una organización a mayor escala, cubriendo más de los dominios de la Casa. **Nueva Regla:** Cada vez que se compra esta mejora, la Posesión de Personaje de Alguaciles se aplica a un Dominio o Comunidad adicional.
+> * **Comunidades Adicionales** *: +3 Riqueza, +1 Poder, 1 mes. Esta inversión puede comprarse múltiples veces. Los alguaciles son parte de una organización a mayor escala, cubriendo más de los dominios de la Casa. **Nueva Regla:** Cada vez que se compra esta mejora, la Posesión de Personaje de Alguaciles se aplica a un Dominio o Comunidad adicional.
 >
 > * **Entrenamiento Militar:** +5 Riqueza; 1d6 meses. Los alguaciles han recibido entrenamiento militar y equipo, lo que les permite defender el área a la que están asignados. **Nueva Regla:** Los alguaciles pueden ser utilizados para actuar como una unidad de Guarnición Entrenada en el Dominio o Comunidad a la que están asignados. Hacer esto causa que la Casa pierda 1 punto del Recurso de Ley, sin embargo, ya que sus guardianes de la paz enfocan sus esfuerzos hacia objetivos militares en lugar de sus deberes normales.
 >
@@ -753,9 +753,9 @@ Los Asesinos se construyen como Personajes Secundarios si fuera necesario, con H
 >
 > Las siguientes mejoras están disponibles para Posesiones de Ingeniero.
 >
-> * **Ingeniero de Asedio*:** +5 Riqueza; 1d6 meses. El ingeniero ha pasado tiempo en el campo y es hábil en el ensamblaje de máquinas de asedio de la manera más eficiente posible. **Nueva Regla:** Los costes de construir armas de asedio y torres de asedio se reducen en -1 Riqueza (aquellas máquinas reducidas a 0 coste de Riqueza en su lugar otorgan 2 máquinas por un solo punto de Riqueza).
+> * **Ingeniero de Asedio** *: +5 Riqueza; 1d6 meses. El ingeniero ha pasado tiempo en el campo y es hábil en el ensamblaje de máquinas de asedio de la manera más eficiente posible. **Nueva Regla:** Los costes de construir armas de asedio y torres de asedio se reducen en -1 Riqueza (aquellas máquinas reducidas a 0 coste de Riqueza en su lugar otorgan 2 máquinas por un solo punto de Riqueza).
 >
-> * **Comandante Ingeniero*:** +5 Riqueza; 1d6 meses. El Ingeniero es un veterano de combate que puede actuar como subcomandante de una unidad de Ingeniero. **Nueva Regla:** El Comandante Ingeniero tiene un Guerra de 4. Además, reduce el coste de obtener unidades de Ingeniero en 1.
+> * **Comandante Ingeniero** *: +5 Riqueza; 1d6 meses. El Ingeniero es un veterano de combate que puede actuar como subcomandante de una unidad de Ingeniero. **Nueva Regla:** El Comandante Ingeniero tiene un Guerra de 4. Además, reduce el coste de obtener unidades de Ingeniero en 1.
 
 > ## PERSONAJE: MAESTRO ARTISTA
 > **Tiempo:** 1d6+6 meses
@@ -921,11 +921,11 @@ Los Saboteadores se construyen como Personajes Secundarios si fuera necesario, c
 >
 > Las siguientes mejoras están disponibles para Posesiones de Red de Espionaje.
 >
-> * **Red Expandida*:** +5 Riqueza; 1d6 meses. Las redes de espionaje verdaderamente efectivas a menudo requieren una amplia base de informantes. **Nueva Regla:** Esta Mejora puede comprarse múltiples veces. Por cada una de esas compras, la Posesión otorga dos células de espías adicionales. Las células de espías recién creadas se crean en tu dominio, y luego deben ser enviadas para infiltrarse en otros dominios, mediante la Acción de Casa de Infiltración de Célula de Espías.
+> * **Red Expandida** *: +5 Riqueza; 1d6 meses. Las redes de espionaje verdaderamente efectivas a menudo requieren una amplia base de informantes. **Nueva Regla:** Esta Mejora puede comprarse múltiples veces. Por cada una de esas compras, la Posesión otorga dos células de espías adicionales. Las células de espías recién creadas se crean en tu dominio, y luego deben ser enviadas para infiltrarse en otros dominios, mediante la Acción de Casa de Infiltración de Célula de Espías.
 >
-> * **Espías Expertos*:** +5 Riqueza; 1d6 meses. Tus espías son muy hábiles para permanecer sin ser vistos. **Nueva Regla:** Las pruebas de Astucia para detectar a tus espías reciben una penalización de -1D.
+> * **Espías Expertos** *: +5 Riqueza; 1d6 meses. Tus espías son muy hábiles para permanecer sin ser vistos. **Nueva Regla:** Las pruebas de Astucia para detectar a tus espías reciben una penalización de -1D.
 >
-> * **Negación Plausible*:** +5 Riqueza; 1d6 meses. Tu Casa tiene una cuadra de espías independientes que son contratados por terceras y cuartas partes, lo que hace difícil probar que tu Casa alguna vez estuvo involucrada. **Nueva Regla:** Si tus espías fallan, nunca resultan en pérdida de Influencia ni en la exposición de la participación de tu Casa.
+> * **Negación Plausible** *: +5 Riqueza; 1d6 meses. Tu Casa tiene una cuadra de espías independientes que son contratados por terceras y cuartas partes, lo que hace difícil probar que tu Casa alguna vez estuvo involucrada. **Nueva Regla:** Si tus espías fallan, nunca resultan en pérdida de Influencia ni en la exposición de la participación de tu Casa.
 
 ### **Infiltración de Célula de Espías (Acción de Casa)**
 
@@ -948,9 +948,9 @@ Los espías pueden ser trasladados a nuevas ubicaciones como Acción de Casa, me
 >
 > Las siguientes mejoras están disponibles para Posesiones de Senescal.
 >
-> * **Senescal*:** +5 Riqueza; 1d6 meses. Requiere que el cabeza de la Casa tenga Estatus 4 o superior. Un mayordomo verdaderamente capacitado, entrenado para actuar como un senescal adecuado, puede beneficiar enormemente al Cabeza de la Casa. **Nueva Regla:** Se asume que el Cabeza de la Casa tiene una especialidad de Administración de 3B, además del otro beneficio de esta Posesión.
+> * **Senescal** *: +5 Riqueza; 1d6 meses. Requiere que el cabeza de la Casa tenga Estatus 4 o superior. Un mayordomo verdaderamente capacitado, entrenado para actuar como un senescal adecuado, puede beneficiar enormemente al Cabeza de la Casa. **Nueva Regla:** Se asume que el Cabeza de la Casa tiene una especialidad de Administración de 3B, además del otro beneficio de esta Posesión.
 >
-> * **Supervisor Capacitado*:** +5 Riqueza; 1d6 meses. El Mayordomo es hábil en redirigir recursos. **Nueva Regla:** Cualquier pérdida de recursos de una tirada de Vicisitud de la Casa se resta de otros recursos con una conversión de 1:2, lo que significa que se perderá el doble de recursos totales, pero de otros recursos.
+> * **Supervisor Capacitado** *: +5 Riqueza; 1d6 meses. El Mayordomo es hábil en redirigir recursos. **Nueva Regla:** Cualquier pérdida de recursos de una tirada de Vicisitud de la Casa se resta de otros recursos con una conversión de 1:2, lo que significa que se perderá el doble de recursos totales, pero de otros recursos.
 
 > ## PERSONAJE: PANDILLAS CALLEJERAS
 > **Tiempo:** 1d6 meses
@@ -1098,9 +1098,9 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Cárcel.
 >
-> * **Inescapable*:** +10 Riqueza; 24+2d6 meses. Tu cárcel está equipada con las últimas cerraduras, puertas dobles, y puede construirse en una ubicación remota como una isla o un acantilado. Escapar de la cárcel es extremadamente difícil y hasta ahora no ha sucedido. Otras Casas incluso envían a sus prisioneros más importantes para que los retengas. **Bonificación de Ganancia de Recursos:** Influencia +1, Ley +1
+> * **Inescapable** *: +10 Riqueza; 24+2d6 meses. Tu cárcel está equipada con las últimas cerraduras, puertas dobles, y puede construirse en una ubicación remota como una isla o un acantilado. Escapar de la cárcel es extremadamente difícil y hasta ahora no ha sucedido. Otras Casas incluso envían a sus prisioneros más importantes para que los retengas. **Bonificación de Ganancia de Recursos:** Influencia +1, Ley +1
 >
-> * **Carceleros*:** +10 Riqueza; 2d6 meses. Tu cárcel está equipada con una unidad de carceleros experimentados. **Nueva Regla:** En tiempos de guerra, los carceleros actúan como una Guarnición Entrenada. También ganan +1 a Conocimiento y Astucia.
+> * **Carceleros** *: +10 Riqueza; 2d6 meses. Tu cárcel está equipada con una unidad de carceleros experimentados. **Nueva Regla:** En tiempos de guerra, los carceleros actúan como una Guarnición Entrenada. También ganan +1 a Conocimiento y Astucia.
 
 > ## ASENTAMIENTO: LUGAR DE CURACIÓN
 > **Tiempo:** 12+1d6 meses
@@ -1117,9 +1117,9 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Lugar de Curación.
 >
-> * **Artefacto Curativo Real*:** +5 Riqueza; solo puede comprarse cuando se compra el Lugar de Curación. El artefacto curativo de tu Casa tiene poderes curativos reales. **Nueva Regla:** Cualquiera que lo toque gana +1B a Resistencia para las tiradas de curación natural durante el próximo mes.
+> * **Artefacto Curativo Real** *: +5 Riqueza; solo puede comprarse cuando se compra el Lugar de Curación. El artefacto curativo de tu Casa tiene poderes curativos reales. **Nueva Regla:** Cualquiera que lo toque gana +1B a Resistencia para las tiradas de curación natural durante el próximo mes.
 >
-> * **Terreno Sagrado o Protegido*:** +10 Riqueza; solo puede comprarse cuando se compra el Lugar de Curación. El lugar de curación de tu Casa está bendecido y repele el mal. **Nueva Regla:** Cualquier persona en sus cercanías gana +1D a Voluntad para resistir efectos mágicos o sobrenaturales, y los seres de mal sobrenatural no pueden entrar al sitio.
+> * **Terreno Sagrado o Protegido** *: +10 Riqueza; solo puede comprarse cuando se compra el Lugar de Curación. El lugar de curación de tu Casa está bendecido y repele el mal. **Nueva Regla:** Cualquier persona en sus cercanías gana +1D a Voluntad para resistir efectos mágicos o sobrenaturales, y los seres de mal sobrenatural no pueden entrar al sitio.
 
 > ## ASENTAMIENTO: MERCADO
 > **Tiempo:** 2d6 meses
@@ -1136,11 +1136,11 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Mercado. A diferencia de la mayoría de las Mejoras, Conexiones Comerciales y Rutas Comerciales pueden comprarse ambas en el mismo Mercado.
 >
-> * **Mercado Especializado*:** +5 Riqueza; 1d6 meses; requiere al menos una Posesión de Riqueza de Finca en el dominio. El puerto tiene instalaciones para que los lugareños vendan sus productos, proporcionando un flujo constante de bienes de muy alta calidad a la comunidad. **Mitigación de Pérdida de Recursos:** Población +1.
+> * **Mercado Especializado** *: +5 Riqueza; 1d6 meses; requiere al menos una Posesión de Riqueza de Finca en el dominio. El puerto tiene instalaciones para que los lugareños vendan sus productos, proporcionando un flujo constante de bienes de muy alta calidad a la comunidad. **Mitigación de Pérdida de Recursos:** Población +1.
 >
-> * **Conexiones Comerciales*:** +5 Riqueza; 1d3 meses; requiere que ambos dominios tengan Caminos. Los beneficios de un mercado se basan en el dominio en el que se encuentra. Fuertes conexiones comerciales con otros dominios controlados por la Casa propietaria pueden aumentar las recompensas potenciales. La compra de esta Mejora "conecta" el Mercado con otro Dominio vecino. El Dominio vecino debe pertenecer a la propia Casa, o a una Casa vasalla. **Nueva Regla:** A los efectos del beneficio de Bonificación de Ganancia de Recursos del Mercado, las Posesiones de Riqueza de Finca y las Posesiones de Personaje Artesano del dominio conectado se consideran en el dominio con el Mercado. Un Pueblo Pequeño puede tener hasta dos Conexiones Comerciales, y las Comunidades grandes pueden tener hasta cinco.
+> * **Conexiones Comerciales** *: +5 Riqueza; 1d3 meses; requiere que ambos dominios tengan Caminos. Los beneficios de un mercado se basan en el dominio en el que se encuentra. Fuertes conexiones comerciales con otros dominios controlados por la Casa propietaria pueden aumentar las recompensas potenciales. La compra de esta Mejora "conecta" el Mercado con otro Dominio vecino. El Dominio vecino debe pertenecer a la propia Casa, o a una Casa vasalla. **Nueva Regla:** A los efectos del beneficio de Bonificación de Ganancia de Recursos del Mercado, las Posesiones de Riqueza de Finca y las Posesiones de Personaje Artesano del dominio conectado se consideran en el dominio con el Mercado. Un Pueblo Pequeño puede tener hasta dos Conexiones Comerciales, y las Comunidades grandes pueden tener hasta cinco.
 >
-> * **Rutas Comerciales*:** +5 Riqueza; 2d6 meses; requiere una Intriga Compleja exitosa y una pérdida de 2 Influencia por Ruta. Los aliados entre las Casas pueden establecer vínculos entre sí para beneficio mutuo. Esto funciona como la Mejora de Conexiones Comerciales, excepto que los dominios conectados no necesitan pertenecer a la Casa con el mercado. Requiere una Intriga Compleja (con un número de Puntos de Victoria igual al total de Posesiones que el dominio contribuiría al comercio, +1) y un pago de 2 Influencia si la Casa aliada está de acuerdo. **Nuevas Reglas:** Cada vez que la Casa gana Riqueza de los beneficios de su Mercado, uno de esos puntos debe ir a la Casa aliada (haciéndolo beneficioso solo si el dominio aliado proporciona al menos una bonificación de +2 Riqueza). El acuerdo de Ruta Comercial puede romperse como Acción de Casa, y le cuesta a la Casa que lo rompe 1d6 de Influencia por hacerlo. Si se rompe el acuerdo de Ruta Comercial, la Casa con el mercado recupera los 5 Riqueza invertidos en él.
+> * **Rutas Comerciales** *: +5 Riqueza; 2d6 meses; requiere una Intriga Compleja exitosa y una pérdida de 2 Influencia por Ruta. Los aliados entre las Casas pueden establecer vínculos entre sí para beneficio mutuo. Esto funciona como la Mejora de Conexiones Comerciales, excepto que los dominios conectados no necesitan pertenecer a la Casa con el mercado. Requiere una Intriga Compleja (con un número de Puntos de Victoria igual al total de Posesiones que el dominio contribuiría al comercio, +1) y un pago de 2 Influencia si la Casa aliada está de acuerdo. **Nuevas Reglas:** Cada vez que la Casa gana Riqueza de los beneficios de su Mercado, uno de esos puntos debe ir a la Casa aliada (haciéndolo beneficioso solo si el dominio aliado proporciona al menos una bonificación de +2 Riqueza). El acuerdo de Ruta Comercial puede romperse como Acción de Casa, y le cuesta a la Casa que lo rompe 1d6 de Influencia por hacerlo. Si se rompe el acuerdo de Ruta Comercial, la Casa con el mercado recupera los 5 Riqueza invertidos en él.
 
 > ## ASENTAMIENTO: ACADEMIA MILITAR
 > **Tiempo:** 20 + 3d6 meses
@@ -1155,9 +1155,9 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Academia Militar.
 >
-> * **Entrenamiento Amplio*:** +5 Riqueza; 6+1d6 meses. La academia enseña una amplia variedad de entrenamiento, permitiendo a las unidades desarrollar fortalezas que normalmente no tendrían. **Nueva Regla:** Como Acción de Casa, se puede añadir una cuarta habilidad a las habilidades disponibles de una unidad.
+> * **Entrenamiento Amplio** *: +5 Riqueza; 6+1d6 meses. La academia enseña una amplia variedad de entrenamiento, permitiendo a las unidades desarrollar fortalezas que normalmente no tendrían. **Nueva Regla:** Como Acción de Casa, se puede añadir una cuarta habilidad a las habilidades disponibles de una unidad.
 >
-> * **Entrenamiento Básico*:** +10 Riqueza; 6+1d6 meses. La academia tiene un riguroso régimen de entrenamiento que todos los estudiantes atraviesan, incluidos los soldados rasos de la Casa. **Nueva Regla:** Elige una habilidad; todas las unidades de la Casa reciben una bonificación de +1 a esa habilidad.
+> * **Entrenamiento Básico** *: +10 Riqueza; 6+1d6 meses. La academia tiene un riguroso régimen de entrenamiento que todos los estudiantes atraviesan, incluidos los soldados rasos de la Casa. **Nueva Regla:** Elige una habilidad; todas las unidades de la Casa reciben una bonificación de +1 a esa habilidad.
 
 > ## ASENTAMIENTO: SEDE DEL MÚSICO
 > **Tiempo:** 2d6 meses
@@ -1178,7 +1178,7 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > * **Salón de Actores:** +5 Riqueza; 2d6 meses; requiere una Comunidad de Pueblo Pequeño o mayor. Tal éxito ha llegado a los artistas que algunos de ellos han reunido sus ganancias y han establecido un salón de actores —uno de los raros palacios de entretenimiento. Tales lugares ofrecen un escenario central con actuaciones nocturnas de todo tipo de artistas, desde espectáculos de marionetas y cuentos de actores hasta actuaciones de músicos y bailarinas pícaras. El salón también sirve bebidas fuertes y buena comida. **Nueva Regla:** La penalización de Riqueza asociada con esta Posesión se anula.
 >
-> * **Hablantes y Oyentes*:** +3 Riqueza; 2d6 meses. En lugar de simplemente buscar pasivamente entre los que saben cosas, la Casa cultiva a este cuerpo de artistas y animadores como informantes activos. **Nueva Regla:** Esto se trata como el Beneficio de Conexiones para un área. Por cada 2 Riqueza adicional invertida en esta Mejora, las Conexiones cubren un área adicional.
+> * **Hablantes y Oyentes** *: +3 Riqueza; 2d6 meses. En lugar de simplemente buscar pasivamente entre los que saben cosas, la Casa cultiva a este cuerpo de artistas y animadores como informantes activos. **Nueva Regla:** Esto se trata como el Beneficio de Conexiones para un área. Por cada 2 Riqueza adicional invertida en esta Mejora, las Conexiones cubren un área adicional.
 
 > ## ASENTAMIENTO: PUERTO
 > **Tiempo:** 2d6+6 meses
@@ -1193,9 +1193,9 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Puertos.
 >
-> * **Almacenes del Comerciante*:** +5 Riqueza; 1d6 meses. El puerto cuenta con amplios almacenes y otras instalaciones de almacenamiento y seguridad para el envío de mercancías. Tal comodidad seguramente atraerá riqueza adicional al área. **Bonificación de Ganancia de Recursos:** Riqueza +1. **Mitigación de Pérdida de Recursos:** Riqueza +1.
+> * **Almacenes del Comerciante** *: +5 Riqueza; 1d6 meses. El puerto cuenta con amplios almacenes y otras instalaciones de almacenamiento y seguridad para el envío de mercancías. Tal comodidad seguramente atraerá riqueza adicional al área. **Bonificación de Ganancia de Recursos:** Riqueza +1. **Mitigación de Pérdida de Recursos:** Riqueza +1.
 >
-> * **Diques Secos*:** +5 Riqueza; 2d6+6 meses. Parte de las instalaciones del puerto incluyen extensos diques secos para la reparación rápida y fácil de barcos. Estos lugares también atraen a marineros e infantes de marina experimentados que buscan trabajo. **Nueva Regla:** Cualquier Barco de Guerra poseído por la Casa puede anular hasta dos puntos de penalizaciones en la parte de Unidades y Bajas del Paso Once en Guerra.
+> * **Diques Secos** *: +5 Riqueza; 2d6+6 meses. Parte de las instalaciones del puerto incluyen extensos diques secos para la reparación rápida y fácil de barcos. Estos lugares también atraen a marineros e infantes de marina experimentados que buscan trabajo. **Nueva Regla:** Cualquier Barco de Guerra poseído por la Casa puede anular hasta dos puntos de penalizaciones en la parte de Unidades y Bajas del Paso Once en Guerra.
 
 > ## ASENTAMIENTO: OPERACIÓN DE SALVAMENTO
 > **Tiempo:** 2d6 meses
@@ -1244,11 +1244,11 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Mercado de Esclavos.
 >
-> * **Stock de Esclavos Calificados*:** +5 Riqueza; 1d6 meses. Tu mercado de esclavos se especializa en individuos altamente calificados en lugar de trabajadores comunes rasos. **Descuento en Otra Posesión:** Puedes reducir el coste de cualquier posesión de Riqueza de Personaje en 2.
+> * **Stock de Esclavos Calificados** *: +5 Riqueza; 1d6 meses. Tu mercado de esclavos se especializa en individuos altamente calificados en lugar de trabajadores comunes rasos. **Descuento en Otra Posesión:** Puedes reducir el coste de cualquier posesión de Riqueza de Personaje en 2.
 >
-> * **Esclavitud Penal*:** +5 Riqueza; 1d6 meses. Tu Casa hace una práctica regular de vender criminales como esclavos. **Nueva Regla:** Gana +1 Ley cuando tu Riqueza aumenta por tiradas de Vicisitud de la Casa.
+> * **Esclavitud Penal** *: +5 Riqueza; 1d6 meses. Tu Casa hace una práctica regular de vender criminales como esclavos. **Nueva Regla:** Gana +1 Ley cuando tu Riqueza aumenta por tiradas de Vicisitud de la Casa.
 >
-> * **Esclavos Soldados*:** +5 Riqueza; 1d6 meses. Si bien tu Casa probablemente rescata a los cautivos más valiosos que toma en la guerra, vende como esclavos a cualquier soldado común capturado. **Nueva Regla:** Si tu Casa destruye la unidad de otra Casa en batalla y gana la batalla, gana 1 Riqueza al vender a los sobrevivientes. Si tu Casa captura una unidad completa, como engañándola para que se rinda antes de que se una a la batalla, puede venderla como esclava, ganando Riqueza igual al Poder de la unidad.
+> * **Esclavos Soldados** *: +5 Riqueza; 1d6 meses. Si bien tu Casa probablemente rescata a los cautivos más valiosos que toma en la guerra, vende como esclavos a cualquier soldado común capturado. **Nueva Regla:** Si tu Casa destruye la unidad de otra Casa en batalla y gana la batalla, gana 1 Riqueza al vender a los sobrevivientes. Si tu Casa captura una unidad completa, como engañándola para que se rinda antes de que se una a la batalla, puede venderla como esclava, ganando Riqueza igual al Poder de la unidad.
 
 > ## ASENTAMIENTO: TEMPLO
 > **Tiempo:** 3d6+12 meses
@@ -1285,9 +1285,9 @@ Las Posesiones de Asentamiento requieren una población de cierto tamaño para p
 >
 > Las siguientes mejoras están disponibles para Posesiones de Campo de Torneos.
 >
-> * **Días de Mercado*:** +5 Riqueza; 1d6 meses. Cuando la Casa organiza un torneo, atrae a comerciantes y vendedores desde leguas a la redonda para aprovechar todo el espacio que ofrece el campo de torneos. **Nueva Regla:** Cuando la Casa usa una Acción de Casa para organizar un torneo, gana una bonificación de +3 a su tirada de Vicisitud de la Casa ese mes.
+> * **Días de Mercado** *: +5 Riqueza; 1d6 meses. Cuando la Casa organiza un torneo, atrae a comerciantes y vendedores desde leguas a la redonda para aprovechar todo el espacio que ofrece el campo de torneos. **Nueva Regla:** Cuando la Casa usa una Acción de Casa para organizar un torneo, gana una bonificación de +3 a su tirada de Vicisitud de la Casa ese mes.
 >
-> * **Cultura de Competencia*:** +10 Riqueza; 1d6 meses, requiere Maestro de Torneos. La Casa ha trabajado para cultivar una reputación de ser el hogar de la verdadera competencia de torneos en la nación. Todos los mejores caballeros vienen a los torneos de la Casa para competir y una buena actuación aquí puede hacer la carrera de un caballero. **Nueva Regla:** La Influencia ganada por organizar un torneo aumenta en +3.
+> * **Cultura de Competencia** *: +10 Riqueza; 1d6 meses, requiere Maestro de Torneos. La Casa ha trabajado para cultivar una reputación de ser el hogar de la verdadera competencia de torneos en la nación. Todos los mejores caballeros vienen a los torneos de la Casa para competir y una buena actuación aquí puede hacer la carrera de un caballero. **Nueva Regla:** La Influencia ganada por organizar un torneo aumenta en +3.
 
 > ## ASENTAMIENTO: POSADA COMERCIAL
 > **Tiempo:** 1d6+6 meses
