@@ -772,6 +772,25 @@ Los Asesinos se construyen como Personajes Secundarios si fuera necesario, con H
 >
 > * **Magnum Opus:** +2 Riqueza; 2d6+6 meses. El artista produce una obra prominente a gran escala. **Nueva Regla:** Gana un aumento único de Recurso de Influencia de +1d6. Esta Mejora puede comprarse múltiples veces seguidas, pero cada vez que se compra, añade +1 Riqueza y +2 meses a los costes para hacerlo.
 
+> ## PERSONAJE: MAESTRO DE ARMAS
+> **Tiempo:** 12 + 1d6 meses
+> **Requisito:** Poder 31+
+> **Inversión:** 10 Riqueza
+>
+> El Maestro de Armas es responsable de las armas y los soldados de la Casa, asegurándose de que ambos se mantengan en condiciones adecuadas para el combate. Si bien no los comanda en batalla ni se ocupa de su entrenamiento —ambas responsabilidades de su capitán o del cabeza de la Casa—, el Maestro de Armas atiende las necesidades del día a día, como asegurarse de que las espadas se mantengan afiladas, los estómagos estén llenos y los caballos herrados.
+>
+> **Bonificaciones de Unidades:** Cada unidad de la Casa gana 1 Riqueza en mejoras gratuitas.
+>
+> **Nuevas Reglas:** Al tirar para las lesiones después de una batalla, añade +1 a la tirada.
+>
+> ### Mejoras
+>
+> Las siguientes mejoras están disponibles para Posesiones de Maestro de Armas.
+>
+> * **Maestro de Campo*:** +5 Riqueza; 1d6 meses. El Maestro de Armas también es hábil en el comando en el campo. **Nueva Regla:** El Maestro de Armas puede actuar como subcomandante con una habilidad de Guerra de 4. **Bonificación de Unidades:** Reduce el coste de obtener un tipo de unidad en 1 (esta unidad debe reflejar la "especialidad" del Maestro de Armas).
+>
+> * **Preparado para el Asedio*:** +5 Riqueza; 1d6 meses. El Maestro de Armas ha pasado una cantidad significativa de tiempo preparando las posesiones de la Casa para el asedio. **Nueva Regla:** Cualquier posesión de la Casa tiene suficiente comida para durar seis meses dentro de sus muros, además de armas de repuesto, armaduras, etc. Cualquier unidad estacionada en dicha posesión gana +1 a su AR.
+
 > ## PERSONAJE: MAESTRO DE CAZA
 > **Tiempo:** 12+2d6 meses
 > **Requisito:** Tierra 31+
